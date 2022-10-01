@@ -1,0 +1,7 @@
+[deps]
+AutoSysimages = "4eb35182-e5c8-446d-8ecc-33e714a26cef"
+Bokeh = "c4b4474d-016b-471b-b14f-576041b951ff"
+BokehBlink = "c7d4f63d-6dfa-4fdc-9408-5961e0889e3a"
+
+[compat]
+julia = "1.7, 1.8"
