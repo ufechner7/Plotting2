@@ -25,5 +25,6 @@ Pkg.instantiate()
 ```
 
 First execution time: 10.6s
+Laptop: 11.16s
 
 Tested on Ubuntu.

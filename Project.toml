@@ -2,6 +2,8 @@
 Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
 Bokeh = "c4b4474d-016b-471b-b14f-576041b951ff"
 BokehBlink = "c7d4f63d-6dfa-4fdc-9408-5961e0889e3a"
+SnoopCompile = "aa65fe97-06da-5843-b5b1-d5d13cad87d2"
+SnoopCompileCore = "e2b509da-e806-4183-be48-004708413034"
 
 [compat]
 julia = "1.7, 1.8, 1.9"
