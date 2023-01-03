@@ -5,7 +5,7 @@
    jill install 1.9 --unstable  
    jill switch 1.9
 2. clone this repository
-3. checkout branch julia-1.0
+3. checkout branch julia-1.
 4. change into the folder Plotting2
 ```
 cd Plotting2
@@ -24,7 +24,7 @@ Pkg.instantiate()
 @time @eval include("src/plot.jl")
 ```
 
-First execution time: 10.6s
+First execution time: 10.8s
 Laptop: 11.16s
 
 Tested on Ubuntu.
