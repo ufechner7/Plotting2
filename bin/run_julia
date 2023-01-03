@@ -1,1 +1,1 @@
-asysimg --project
+julia --project
